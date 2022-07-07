@@ -1,6 +1,6 @@
 # Hola, Soy Jose Mejia
 
-Soy un desarrollador de aplicaiones web.
+Soy un desarrollador web.
 
 
 ## Puedes encontrarme en:
