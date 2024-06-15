@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Web app, MERN**
+- 💬 Ask me about **Web App, MERN**
 
 - 📫 How to reach me **thos.josemejia@gmail.com**
 
